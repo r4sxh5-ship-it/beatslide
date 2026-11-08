@@ -1,0 +1,31 @@
+{
+  "name": "BeatSlide",
+  "short_name": "BeatSlide",
+  "description": "BPMに合わせて写真が切り替わるスライドショー",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08050c",
+  "theme_color": "#08050c",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
